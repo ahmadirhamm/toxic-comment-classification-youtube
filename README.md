@@ -1,4 +1,3 @@
-# toxic-comment-classification-youtube
 # 🤖 Klasifikasi Komentar Toxic di YouTube Menggunakan Machine Learning
 
 Proyek ini merupakan tugas kelompok untuk mata kuliah **Machine Learning**. Sistem ini dirancang untuk mendeteksi dan mengklasifikasikan komentar netizen di platform YouTube menjadi dua kategori: **Toxic (1)** dan **Non-Toxic (0)** menggunakan pendekatan *Natural Language Processing* (NLP).
